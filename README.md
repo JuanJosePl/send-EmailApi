@@ -2,22 +2,6 @@
 
 Este proyecto es una API sencilla para enviar correos electrónicos utilizando Node.js, Express y Nodemailer. La API permite el manejo de solicitudes para el envío de correos desde un formulario de contacto.
 
-## 🗂️ Estructura del Proyecto
-
-send-EmailApi/
-├── config/
-│   └── config.js        # Configuración de variables de entorno.
-├── routes/
-│   └── emailRoutes.js   # Rutas para manejar el envío de correos.
-├── service/
-│   └── mailService.js   # Lógica de servicio para el envío de correos.
-├── server.js            # Archivo principal para iniciar el servidor.
-├── .env                 # Variables de entorno (correo y contraseña del emisor).
-├── .gitignore           # Ignorar archivos no deseados en Git.
-├── package.json         # Dependencias y scripts del proyecto.
-├── package-lock.json    # Versionado de dependencias.
-
-
 
 ## ⚙️ Requisitos Previos
 
